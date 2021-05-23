@@ -1,4 +1,4 @@
-<div style="margin: auto">
+<div align=center>
   <br><br>
 
 🤓 &nbsp; &nbsp;   🧜‍&nbsp; &nbsp;  🦔 &nbsp; &nbsp;  🍌&nbsp; &nbsp;    ☀️&nbsp; &nbsp;    🚴🏻‍&nbsp; &nbsp;   🐳&nbsp; &nbsp;   🖤 &nbsp; &nbsp;   🌿&nbsp; &nbsp;    🤷🏻‍&nbsp; &nbsp;   🍉 &nbsp; &nbsp;   🎧 &nbsp; &nbsp;  🐣&nbsp; &nbsp;    🌊    
