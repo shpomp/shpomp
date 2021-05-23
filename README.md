@@ -3,10 +3,10 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
 </head>
 <body>
