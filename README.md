@@ -9,6 +9,6 @@
   <br><br>
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpomp&hide=haskell,shell&theme=nord)](https://github.com/shpomp/github-readme-stats) [![shpomp's GitHub stats](https://github-readme-stats.vercel.app/api?username=shpomp&theme=nord&show_icons=true&hide=stars)](https://github.com/shpomp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpomp&hide=haskell,shell&theme=material-palenight&hide_border=true&title_color=7F8D9C&langs_count=7)](https://github.com/shpomp/github-readme-stats) [![shpomp's GitHub stats](https://github-readme-stats.vercel.app/api?username=shpomp&theme=material-palenight&show_icons=true&hide=stars&hide_border=true&title_color=7F8D9C&include_all_commits=true&count_private=true&line_height=32)](https://github.com/shpomp/github-readme-stats)
 
 
