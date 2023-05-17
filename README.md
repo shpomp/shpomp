@@ -36,10 +36,6 @@
 
   <br><br>
   <br><br>
-
-  <a href="https://www.linkedin.com/in/karourn" target="_blank">    
-    <img src="https://skills.thijs.gg/icons?i=linkedin&theme=light" alt="linkedin" width="27">  
-  </a>
   
 </div>
 
