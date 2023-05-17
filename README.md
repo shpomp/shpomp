@@ -8,6 +8,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML5-21262d?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-21262d?&logo=CSS3)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-21262d?&logo=tailwindcss)
 ![Sass](https://img.shields.io/badge/-sass-21262d?&logo=sass)
 ![Git](https://img.shields.io/badge/-git-21262d?&logo=git) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-21262d?&logo=JavaScript)
@@ -24,6 +25,7 @@
 ![MySQl](https://img.shields.io/badge/-mysql-21262d?&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-mongodb-21262d?&logo=mongodb)
 ![Storybook](https://img.shields.io/badge/-storybook-21262d?&logo=storybook)
+![MUI](https://img.shields.io/badge/-mui-21262d?&logo=mui)
 ![Figma](https://img.shields.io/badge/-figma-21262d?&logo=figma)
 
 
