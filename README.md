@@ -28,6 +28,8 @@
 ![MUI](https://img.shields.io/badge/-mui-21262d?&logo=mui)
 ![Figma](https://img.shields.io/badge/-figma-21262d?&logo=figma)
 ![Firebase](https://img.shields.io/badge/-firebase-21262d?&logo=firebase)
+![Contentful](https://img.shields.io/badge/-contentful-21262d?&logo=contentful)
+
 
 
 
