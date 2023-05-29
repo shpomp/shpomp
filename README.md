@@ -27,6 +27,8 @@
 ![Storybook](https://img.shields.io/badge/-storybook-21262d?&logo=storybook)
 ![MUI](https://img.shields.io/badge/-mui-21262d?&logo=mui)
 ![Figma](https://img.shields.io/badge/-figma-21262d?&logo=figma)
+![Firebase](https://img.shields.io/badge/-firebase-21262d?&logo=firebase)
+
 
 
   <br><br>
