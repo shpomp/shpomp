@@ -36,6 +36,7 @@
 ![MUI](https://img.shields.io/badge/-mui-21262d?&logo=mui)
 ![Chakra](https://img.shields.io/badge/-chakra-21262d?&logo=chakraui)
 ![Shadcn](https://img.shields.io/badge/-shadcn-21262d?&logo=shadcnui)
+![Mantine](https://img.shields.io/badge/-mantine-21262d?&logo=mantine)
 ![Figma](https://img.shields.io/badge/-figma-21262d?&logo=figma)
 ![Firebase](https://img.shields.io/badge/-firebase-21262d?&logo=firebase)
 ![Contentful](https://img.shields.io/badge/-contentful-21262d?&logo=contentful)
